@@ -20,8 +20,8 @@
  	
     <!-- Preloader -->
     <div class="preloader"></div>
- 	
-    <?php include 'footer.php';?>
+    
+    <?php include("topnavigation.php"); ?>
     
     <!--Main Slider-->
     <section class="main-slider revolution-slider">
@@ -220,12 +220,12 @@
     	<div class="auto-container">
         	<div class="row clearfix">
             	
-                <!--Features Column-->
-            	<div class="column features-column col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="count wow zoomInStable" data-wow-delay="0ms" data-wow-duration="1500ms">01.</div>
+               <!--Features Column-->
+                <div class="column features-column col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <div class="count wow zoomInStable" data-wow-delay="0ms" data-wow-duration="1500ms">01.</div>
                         <div class="title-box">
-                        	<h4>We are Shrimad Solutions</h4>
+                            <h4>We are Shrimad Solutions</h4>
                             <h3>IT Staffing</h3>
                         </div>
                         <div class="text">These men promptly escaped from a maximum security stockade to the Los Angeles underground. The Brady Bunch the Brady Bunch.</div>
@@ -233,11 +233,11 @@
                 </div>
                 
                 <!--Features Column-->
-            	<div class="column features-column col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="count wow zoomInStable" data-wow-delay="300ms" data-wow-duration="1500ms">02.</div>
+                <div class="column features-column col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <div class="count wow zoomInStable" data-wow-delay="300ms" data-wow-duration="1500ms">02.</div>
                         <div class="title-box">
-                        	<h4>We are Shrimad Solutions</h4>
+                            <h4>We are Shrimad Solutions</h4>
                             <h3>IT Development</h3>
                         </div>
                         <div class="text">These men promptly escaped from a maximum security stockade to the Los Angeles underground. The Brady Bunch the Brady Bunch.</div>
@@ -245,11 +245,11 @@
                 </div>
                 
                 <!--Features Column-->
-            	<div class="column features-column col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="count wow zoomInStable" data-wow-delay="600ms" data-wow-duration="1500ms">03.</div>
+                <div class="column features-column col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <div class="count wow zoomInStable" data-wow-delay="600ms" data-wow-duration="1500ms">03.</div>
                         <div class="title-box">
-                        	<h4>We are Shrimad Solutions</h4>
+                            <h4>We are Shrimad Solutions</h4>
                             <h3>IT Training</h3>
                         </div>
                         <div class="text">We provide training in multiple technologies.</div>
@@ -324,59 +324,6 @@
         </div>
     </section>
     
-    <!--Default Section-->
-    <section class="default-section">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	
-                <!--Text Column-->
-                <div class="column text-column col-md-6 col-sm-12 col-xs-12">
-                	<div class="inner-box padd-right-50">
-                    	<h2>Helping Small Businesses To Find Right Way For The Last 42 Years</h2>
-                        <div class="text">
-                        	<p>Just sit right back and you'll hear a tale a tale of a fateful trip started from this tropic port aboard this tiny ship. Love exciting and new. Come aboard were expecting you. Love life's sweetest reward Let it flow it floats back to you.</p>
-                            <p>Feels so right it cant be wrong. Rockin' and rollin' all week long. You wanna be where you can see our troubles are all the same. You wanna be where everybody knows Your name.</p>
-                        </div>
-                    </div>
-                </div>
-                
-                <!--Counter Column-->
-                <div class="column no-margin-bottom counter col-md-6 col-sm-12 col-xs-12">
-                	<div class="fact-counter">
-                    	<div class="row clearfix">
-                        	
-                            <!--Counter Column-->
-                            <article class="col-md-6 col-sm-6 col-xs-12 counter-column wow fadeIn" data-wow-duration="0ms">
-                                <div class="count-outer"><span class="count-text" data-speed="1500" data-stop="42">0</span>+</div>
-                                <div class="text">Years of business operation</div>
-                            </article>
-                            
-                            <!--Counter Column-->
-                            <article class="col-md-6 col-sm-6 col-xs-12 counter-column wow fadeIn" data-wow-duration="0ms">
-                                <div class="count-outer"><span class="count-text" data-speed="1500" data-stop="366">0</span>+</div>
-                                <div class="text">Our staffs across worldwide</div>
-                            </article>
-                            
-                            <!--Counter Column-->
-                            <article class="col-md-6 col-sm-6 col-xs-12 counter-column wow fadeIn" data-wow-duration="0ms">
-                                <div class="count-outer"><span class="count-text" data-speed="1500" data-stop="1500">0</span>+</div>
-                                <div class="text">Mortgage brokers worldwide</div>
-                            </article>
-                            
-                            <!--Counter Column-->
-                            <article class="col-md-6 col-sm-6 col-xs-12 counter-column wow fadeIn" data-wow-duration="0ms">
-                                <div class="count-outer"><span class="count-text" data-speed="1500" data-stop="1000">0</span>+</div>
-                                <div class="text">Finance help done each month</div>
-                            </article>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </section>
-    
     
     <!--Two Column Fluid-->
     <section class="two-col-fluid">
@@ -426,8 +373,7 @@
     	<div class="auto-container">
         	
             <div class="sec-title text-center">
-            	<h2>Our Recent Projects</h2>
-                <h3>Explore our latest works</h3>
+            	<h2>Our Clients</h2>
             </div>
             
             <div class="projects-gallery">
@@ -539,23 +485,6 @@
                     
                     
                 </div>
-            </div>
-            
-            <div class="lower-content text-center">
-            	<div class="more-link"><a href="#" class="theme-btn btn-style-three">View all projects</a></div>
-                
-                <div class="vert-line"><span class="dot"></span></div>
-                <div class="icon"><span class="flaticon-people"></span></div>
-                <h3>support 24*7</h3>
-                <div class="text">
-                	<p>Sometimes you want to go where everybody knows your name. And they're always glad you came. Doin' it our way. There's nothing we wont try. Never heard the word impossible. This time there's no stopping us. Well we're movin' on up to the east side. To a deluxe apartment in the sky.</p>
-                </div>
-                
-                <div class="bottom">
-                	<strong>Get Your Free Consultation</strong>
-                    <span class="phone-number">(01) 123-466-1234</span>
-                </div>
-                
             </div>
             
         </div>
@@ -672,130 +601,7 @@
     </section>
     
     
-    <!--Main Footer-->
-    <footer class="main-footer">
-        
-        <!--Footer Upper-->        
-        <div class="footer-upper">
-            <div class="auto-container">
-                <div class="row clearfix">
-                    
-                    <!--Two 4th column-->
-                    <div class="col-md-6 col-sm-12 col-xs-12">
-                        <div class="row clearfix">
-                            <div class="col-lg-6 col-sm-6 col-xs-12 column">
-                                <div class="footer-widget about-widget">
-                                    <h3 class="logo-text">Consult<span class="theme_color">Pro</span></h3>
-                                    <div class="text margin-bott-30">
-                                        <p>The first mate and his Skipper too will do their very best to make the others comfortable in their tropic island nest. Fleeing from the Cylon tyranny last Battlestar galactica leads.</p>
-                                    </div>
-                                    
-                                    <div class="social-links">
-                                        <a href="#"><span class="fa fa-facebook-f"></span></a>
-                                        <a href="#"><span class="fa fa-twitter"></span></a>
-                                        <a href="#"><span class="fa fa-google-plus"></span></a>
-                                        <a href="#"><span class="fa fa-skype"></span></a>
-                                    </div>
-                                    
-                                </div>
-                            </div>
-                            
-                            <!--Footer Column-->
-                            <div class="col-lg-6 col-sm-6 col-xs-12 column">
-                                <div class="footer-widget contact-widget">
-                                    <h3>Contact Us</h3>	
-                                    <ul class="contact-info">
-                                        <li><h4>Address</h4><p>Shrimad Solutions Inc, 06 Highley St, Victoria, Australia.</p></li>
-                                        <li><h4>Email Us</h4><p><a href="mailto:Info@Shrimad Solutions.Com">Info@Shrimad Solutions.Com</a> <br><a href="mailto:Support@Shrimad Solutions.Com">Support@Shrimad Solutions.Com</a></p></li>
-                                        <li><h4>Call Us</h4><p>+(10) 123 456 7896 <br>+(10) 123 456 7899</p></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!--Two 4th column End-->
-                    
-                    <!--Two 4th column-->
-                    <div class="col-md-6 col-sm-12 col-xs-12">
-                        <div class="row clearfix">
-                            <!--Footer Column-->
-                            <div class="col-lg-6 col-sm-6 col-xs-12 column">
-                                <div class="footer-widget links-widget">
-                                    <h3>Quick Links</h3>
-                                    <div class="row clearfix">
-                                        
-                                        <div class="col-lg-6 col-sm-6 col-xs-12">
-                                            <ul>
-                                                <li><a href="#">Home</a></li>
-                                                <li><a href="#">About Us</a></li>
-                                                <li><a href="#">Services</a></li>
-                                                <li><a href="#">Projects</a></li>
-                                                <li><a href="#">Latest News</a></li>
-                                                <li><a href="#">Our Team</a></li>
-                                                <li><a href="#">Testimonials</a></li>
-                                            </ul>
-                                        </div>
-                                        
-                                        <div class="col-lg-6 col-sm-6 col-xs-12">
-                                            <ul>
-                                                <li><a href="#">Consultation</a></li>
-                                            </ul>
-                                        </div>
-                                        
-                                    </div>
-                                    
-                                </div>
-                            </div>
-                            
-                            <!--Footer Column-->
-                            <div class="col-lg-6 col-sm-6 col-xs-12 column">
-                                <div class="footer-widget newsletter-widget">
-                                    <h3>Subscribe Us</h3>
-                                    
-                                    <div class="newsletter-form">
-                                        <div class="text padd-bott-20">
-                                            <p>Signup for our mailing list to get latest updates and news.</p>
-                                        </div>
-                                        <form method="post" action="index.html">
-                                            <div class="form-group">
-                                                <input type="email" name="useremail" value="" placeholder="Email address" required>
-                                                <button type="submit" class="theme-btn btn-submit"><span class="fa fa-envelope-o"></span></button>
-                                            </div>
-                                            <div class="confid"><em>Your mail id is Confidential</em></div>
-                                        </form>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!--Two 4th column End-->
-                    
-                </div>
-                
-            </div>
-        </div>
-        
-        <!--Footer Bottom-->
-        <div class="footer-bottom">
-            <div class="auto-container">
-                <div class="row clearfix">
-                    <div class="col-md-6 col-sm-6 col-xs-12"><div class="copyright-text">&copy; 2016 All Rights Reserved</div></div>
-                    <div class="col-md-6 col-sm-6 col-xs-12">
-                        <!--Bottom Nav-->
-                        <nav class="footer-nav clearfix">
-                            <ul class="pull-right clearfix">
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Services</a></li>
-                                <li><a href="#">Privacy policy</a></li>
-                                <li><a href="#">Terms &amp; condition</a></li>
-                                
-                            </ul>
-                        </nav>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-    </footer>
+    <?php include ('footer.php'); ?>
         
     
 </div>
@@ -811,6 +617,7 @@
 <script src="js/bxslider.js"></script>
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
+
 
 </body>
 </html>

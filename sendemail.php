@@ -2,7 +2,7 @@
 
 // Define some constants
 define( "RECIPIENT_NAME", "John Doe" );
-define( "RECIPIENT_EMAIL", "yourmail@mail.com" );
+define( "RECIPIENT_EMAIL", "info@shrimadsolutions.com" );
 
 
 // Read the form values
