@@ -11,7 +11,7 @@
                         <div class="row clearfix">
                             <div class="col-lg-6 col-sm-6 col-xs-12 column">
                                 <div class="footer-widget about-widget">
-                                    <h3 class="logo-text">Shrimad<br><span class="theme_color">Solutions</span></h3>
+                                    <h3 class="logo-text">Srimad<br><span class="theme_color">Solutions</span></h3>
                                     <div class="text margin-bott-30">
                                         <p>The first mate and his Skipper too will do their very best to make the others comfortable in their tropic island nest. Fleeing from the Cylon tyranny last Battlestar galactica leads.</p>
                                     </div>
@@ -31,8 +31,8 @@
                                 <div class="footer-widget contact-widget">
                                     <h3>Contact Us</h3>	
                                     <ul class="contact-info">
-                                        <li><h4>Address</h4><p>Shrimad Solutions Inc, 301 N Severgn Drive, Exton, PA 19341, USA.</p></li>
-                                        <li><h4>Email Us</h4><p><a href="mailto:Info@Shrimad Solutions.Com">Info@ShrimadSolutions.Com</a> <br><a href="mailto:Support@Shrimad Solutions.Com">Raghav@ShrimadSolutions.Com</a></p></li>
+                                        <li><h4>Address</h4><p>Srimad Solutions Inc, 301 N Severgn Drive, Exton, PA 19341, USA.</p></li>
+                                        <li><h4>Email Us</h4><p><a href="mailto:Info@Srimad Solutions.Com">Info@SrimadSolutions.Com</a> <br><a href="mailto:Support@Srimad Solutions.Com">Raghav@SrimadSolutions.Com</a></p></li>
                                         <li><h4>Call Us</h4><p>+(1) 302 287 5911</p></li>
                                     </ul>
                                 </div>

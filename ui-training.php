@@ -26,7 +26,7 @@
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/bg-page-title-7.jpg);">
     	<div class="auto-container">
-        	<h1>Java Training</h1>
+        	<h1>UI Training</h1>
         </div>
     </section>
     
@@ -92,20 +92,22 @@
                 <!--Sidebar-->	
                 <div class="col-lg-3 col-md-4 col-sm-12 col-xs-12 pull-left">
                     <aside class="sidebar">
+
                         
                         <!-- Popular Tags -->
                         <div class="sidebar-widget popular-tags">
                             <div class="sidebar-title"><h2>Covered Technology</h2></div>
                             
-                            <a href="#">JAVA</a>
-                            <a href="#">J2EE</a>
-                            <a href="#">REST API</a>
-                            <a href="#">Hibernate</a>
-                            <a href="#">Struts</a>
-                            <a href="#">Spring</a>
-                            <a href="#">Servers</a>
-                            <a href="#">OOP</a>
-                            
+                            <a href="#">HTML5</a>
+                            <a href="#">CSS3</a>
+                            <a href="#">Bootstrap</a>
+                            <a href="#">Javascript</a>
+                            <a href="#">Jquery</a>
+                            <a href="#">Angularjs</a>
+                            <a href="#">Backbone</a>
+                            <a href="#">Grunt</a>
+                            <a href="#">Gulp</a>
+                            <a href="#">Ember</a>
                         </div>
                                 
                     </aside>
@@ -120,7 +122,8 @@
         </div>
     </div>
     
-    <?php include ('footer.php'); ?>
+    <?php include ('footer.php'); ?>   
+    
         
     
 </div>

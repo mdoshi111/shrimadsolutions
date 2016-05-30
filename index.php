@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Shrimad Solutions | Homepage</title>
+<title>Srimad Solutions | Homepage</title>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/revolution-slider.css" rel="stylesheet">
@@ -47,7 +47,7 @@
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
                     data-endeasing="Power4.easeIn"
-                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><h3 class="italic-heading">Welcome to Shrimad Solutions</h3></div>
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><h3 class="italic-heading">Welcome to Srimad Solutions</h3></div>
                     
                     <div class="tp-caption sfr sfb tp-resizeme"
                     data-x="left" data-hoffset="15"
@@ -160,7 +160,7 @@
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
                     data-endeasing="Power4.easeIn"
-                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><h3>Welcome to Shrimad Solutions</h3></div>
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><h3>Welcome to Srimad Solutions</h3></div>
                     
                     <div class="tp-caption sfr sfb tp-resizeme"
                     data-x="left" data-hoffset="15"
@@ -225,10 +225,10 @@
                     <div class="inner-box">
                         <div class="count wow zoomInStable" data-wow-delay="0ms" data-wow-duration="1500ms">01.</div>
                         <div class="title-box">
-                            <h4>We are Shrimad Solutions</h4>
+                            <h4>We are Srimad Solutions</h4>
                             <h3>IT Staffing</h3>
                         </div>
-                        <div class="text">These men promptly escaped from a maximum security stockade to the Los Angeles underground. The Brady Bunch the Brady Bunch.</div>
+                        <div class="text">We strive to provide IT consultants with best talents and right skills to meet the requirements of our clients.</div>
                     </div>
                 </div>
                 
@@ -237,10 +237,10 @@
                     <div class="inner-box">
                         <div class="count wow zoomInStable" data-wow-delay="300ms" data-wow-duration="1500ms">02.</div>
                         <div class="title-box">
-                            <h4>We are Shrimad Solutions</h4>
+                            <h4>We are Srimad Solutions</h4>
                             <h3>IT Development</h3>
                         </div>
-                        <div class="text">These men promptly escaped from a maximum security stockade to the Los Angeles underground. The Brady Bunch the Brady Bunch.</div>
+                        <div class="text">We have the right team of engineers to build/support enterprise level applications at low cost and high quality.</div>
                     </div>
                 </div>
                 
@@ -249,10 +249,10 @@
                     <div class="inner-box">
                         <div class="count wow zoomInStable" data-wow-delay="600ms" data-wow-duration="1500ms">03.</div>
                         <div class="title-box">
-                            <h4>We are Shrimad Solutions</h4>
+                            <h4>We are Srimad Solutions</h4>
                             <h3>IT Training</h3>
                         </div>
-                        <div class="text">We provide training in multiple technologies.</div>
+                        <div class="text">We offer corporate/individual training on emerging and trending technologies.</div>
                     </div>
                 </div>
                 
@@ -368,170 +368,6 @@
     </section>
     
     
-    <!--Recent Projects -->
-    <section class="projects-section">
-    	<div class="auto-container">
-        	
-            <div class="sec-title text-center">
-            	<h2>Our Clients</h2>
-            </div>
-            
-            <div class="projects-gallery">
-            	<div class="items-outer clearfix">
-                	
-                    <!--Project Item-->
-                    <article class="default-project-item col-md-4 col-sm-6 col-xs-12">
-                    	<div class="inner-box">
-                        	<figure class="image-box"><img src="images/resource/project-image-1.jpg" alt=""></figure>
-                            <div class="overlay-box">
-                            	<div class="title-box">
-                                	<h3><a href="#">Rise Of Business</a></h3>
-                                    <div class="text">Finance, Insurance</div>
-                                </div>
-                                <div class="options">
-                                    <a class="link lightbox-image" href="images/resource/project-image-1.jpg" title="Caption Here"><span class="fa fa-search"></span></a>
-                                    <a class="link link-box" href="#"><span class="fa fa-link"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-                    
-                    <!--Project Item-->
-                    <article class="default-project-item col-md-4 col-sm-6 col-xs-12">
-                    	<div class="inner-box">
-                        	<figure class="image-box"><img src="images/resource/project-image-2.jpg" alt=""></figure>
-                            <div class="overlay-box">
-                            	<div class="title-box">
-                                	<h3><a href="#">Rise Of Business</a></h3>
-                                    <div class="text">Finance, Insurance</div>
-                                </div>
-                                <div class="options">
-                                    <a class="link lightbox-image" href="images/resource/project-image-2.jpg" title="Caption Here"><span class="fa fa-search"></span></a>
-                                    <a class="link link-box" href="#"><span class="fa fa-link"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-                    
-                    <!--Project Item-->
-                    <article class="default-project-item col-md-4 col-sm-6 col-xs-12">
-                    	<div class="inner-box">
-                        	<figure class="image-box"><img src="images/resource/project-image-3.jpg" alt=""></figure>
-                            <div class="overlay-box">
-                            	<div class="title-box">
-                                	<h3><a href="#">Rise Of Business</a></h3>
-                                    <div class="text">Finance, Insurance</div>
-                                </div>
-                                <div class="options">
-                                    <a class="link lightbox-image" href="images/resource/project-image-3.jpg" title="Caption Here"><span class="fa fa-search"></span></a>
-                                    <a class="link link-box" href="#"><span class="fa fa-link"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-                    
-                    <!--Project Item-->
-                    <article class="default-project-item col-md-4 col-sm-6 col-xs-12">
-                    	<div class="inner-box">
-                        	<figure class="image-box"><img src="images/resource/project-image-4.jpg" alt=""></figure>
-                            <div class="overlay-box">
-                            	<div class="title-box">
-                                	<h3><a href="#">Rise Of Business</a></h3>
-                                    <div class="text">Finance, Insurance</div>
-                                </div>
-                                <div class="options">
-                                    <a class="link lightbox-image" href="images/resource/project-image-4.jpg" title="Caption Here"><span class="fa fa-search"></span></a>
-                                    <a class="link link-box" href="#"><span class="fa fa-link"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-                    
-                    <!--Project Item-->
-                    <article class="default-project-item col-md-4 col-sm-6 col-xs-12">
-                    	<div class="inner-box">
-                        	<figure class="image-box"><img src="images/resource/project-image-5.jpg" alt=""></figure>
-                            <div class="overlay-box">
-                            	<div class="title-box">
-                                	<h3><a href="#">Rise Of Business</a></h3>
-                                    <div class="text">Finance, Insurance</div>
-                                </div>
-                                <div class="options">
-                                    <a class="link lightbox-image" href="images/resource/project-image-5.jpg" title="Caption Here"><span class="fa fa-search"></span></a>
-                                    <a class="link link-box" href="#"><span class="fa fa-link"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-                    
-                    <!--Project Item-->
-                    <article class="default-project-item col-md-4 col-sm-6 col-xs-12">
-                    	<div class="inner-box">
-                        	<figure class="image-box"><img src="images/resource/project-image-6.jpg" alt=""></figure>
-                            <div class="overlay-box">
-                            	<div class="title-box">
-                                	<h3><a href="#">Rise Of Business</a></h3>
-                                    <div class="text">Finance, Insurance</div>
-                                </div>
-                                <div class="options">
-                                    <a class="link lightbox-image" href="images/resource/project-image-6.jpg" title="Caption Here"><span class="fa fa-search"></span></a>
-                                    <a class="link link-box" href="#"><span class="fa fa-link"></span></a>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </article>
-                    
-                    
-                    
-                </div>
-            </div>
-            
-        </div>
-    </section>
-    
-    
-    <!--Testimonials-->
-    <section class="testimonials-area">
-    	<div class="auto-container clearfix">
-        	<!--Section Title-->
-        	<div class="sec-title text-center">
-            	<h2>Feedback From Our Clients</h2>
-                <h3>Words from our trusted clients</h3>
-            </div>
-            
-            <!--Slider-->
-            <ul class="slider">
-        		<li class="slide-item"><div class="slide-text">A man is born he's a man of means. Then along come two they got nothin' but their jeans. Didn't need no welfare states. Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Well the first thing you know ol' Jeds a millionaire. Kinfolk said away from there. </div></li>
-                <li class="slide-item"><div class="slide-text">A man is born he's a man of means. Then along come two they got nothin' but their jeans. Didn't need no welfare states. Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Well the first thing you know ol' Jeds a millionaire. Kinfolk said away from there. </div></li>
-                <li class="slide-item"><div class="slide-text">A man is born he's a man of means. Then along come two they got nothin' but their jeans. Didn't need no welfare states. Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Well the first thing you know ol' Jeds a millionaire. Kinfolk said away from there. </div></li>
-            </ul>
-            
-            <!--Custom-Pager-->
-            <div class="testi-pager clearfix" id="testi-pager">
-            	
-            	<a href="#" class="pager-item active" data-slide-index="0">
-                	<div class="testi-thumb"><img class="img-circle" src="images/resource/testi-image-1.jpg" alt="" title=""></div>
-                    <strong>Garry Miller Jr</strong>
-                    <div class="designation">CEO - Gates Inc</div>
-                </a>
-                <a href="#" class="pager-item" data-slide-index="1">
-                	<div class="testi-thumb"><img class="img-circle" src="images/resource/testi-image-2.jpg" alt="" title=""></div>
-                    <strong>Mike Rick Grimes</strong>
-                    <div class="designation">CEO - Grimes Inc</div>
-                </a>
-                <a href="#" class="pager-item" data-slide-index="2">
-                	<div class="testi-thumb"><img class="img-circle" src="images/resource/testi-image-3.jpg" alt="" title=""></div>
-                    <strong>Andrew Lincon</strong>
-                    <div class="designation">CEO - Alashin Inc</div>
-                </a>
-                
-            </div>
-            
-        </div>
-        
-    </section>
-    
     
     <!--Request Quote Section-->
     <section class="request-quote-section">
@@ -562,9 +398,9 @@
                             <div class="form-group">
                             	<div class="field-label">Topic To Discuss :</div>
                             	<select name="topic">
-                                	<option>Share Market Trading</option>
-                                    <option>Market Hosting</option>
-                                    <option>Presidency Share</option>
+                                	<option>Training</option>
+                                    <option>Development</option>
+                                    <option>Staffing</option>
                                     <option>Other Topic</option>
                                 </select>
                             </div>

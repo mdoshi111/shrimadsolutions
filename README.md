@@ -1,2 +1,2 @@
 # shrimadsolutions
-Shrimad Solutions
+Srimad Solutions

@@ -3584,6 +3584,11 @@ ul,li{
 	padding:120px 0px 100px;
 }
 
+.sidebar-page-container-development{
+	position:relative;
+	padding:20px 0px 100px;
+}
+
 .sidebar-page-container .sidebar{
 	margin-bottom:30px;	
 }

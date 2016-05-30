@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Shrimad Solutions HTML5 Template | About Style One</title>
+<title>Srimad Solutions HTML5 Template | About Style One</title>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
@@ -41,7 +41,7 @@
                 	<div class="inner-box">
                     	<div class="count wow zoomInStable" data-wow-delay="0ms" data-wow-duration="1500ms">01.</div>
                         <div class="title-box">
-                        	<h4>We are Shrimad Solutions</h4>
+                        	<h4>We are Srimad Solutions</h4>
                             <h3>Learning Solutions</h3>
                         </div>
                         <div class="text">These men promptly escaped from a maximum security stockade to the Los Angeles underground. The Brady Bunch the Brady Bunch.</div>
@@ -53,7 +53,7 @@
                 	<div class="inner-box">
                     	<div class="count wow zoomInStable" data-wow-delay="300ms" data-wow-duration="1500ms">02.</div>
                         <div class="title-box">
-                        	<h4>We are Shrimad Solutions</h4>
+                        	<h4>We are Srimad Solutions</h4>
                             <h3>Change Management</h3>
                         </div>
                         <div class="text">These men promptly escaped from a maximum security stockade to the Los Angeles underground. The Brady Bunch the Brady Bunch.</div>
@@ -65,7 +65,7 @@
                 	<div class="inner-box">
                     	<div class="count wow zoomInStable" data-wow-delay="600ms" data-wow-duration="1500ms">03.</div>
                         <div class="title-box">
-                        	<h4>We are Shrimad Solutions</h4>
+                        	<h4>We are Srimad Solutions</h4>
                             <h3>Learning Technologies</h3>
                         </div>
                         <div class="text">These men promptly escaped from a maximum security stockade to the Los Angeles underground. The Brady Bunch the Brady Bunch.</div>

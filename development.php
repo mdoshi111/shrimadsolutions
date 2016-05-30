@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Shrimad Solutions HTML5 Template | Services Single</title>
+<title>Srimad Solutions HTML5 Template | Services Single</title>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
@@ -22,16 +22,8 @@
  	
     <?php include ('topnavigation.php'); ?>
     
-    <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/bg-page-title-5.jpg);">
-    	<div class="auto-container">
-        	<h1>Service Details</h1>
-        </div>
-    </section>
-    
-    
     <!--Sidebar Page-->
-    <div class="sidebar-page-container">
+    <div class="sidebar-page-container-development">
     	<!--Tabs Box-->
         <div class="auto-container tabs-box">
             <div class="row clearfix">
@@ -52,17 +44,6 @@
                                     <li class="tab-btn" data-tab="#tab-six">SAP <span class="icon fa fa-angle-right"></span></li>
                                 </ul>
                             </nav>
-                        </div>
-                        
-                        
-                        <!--Sidebar Widget / Downloads-->
-                        <div class="widget sidebar-widget downloads">
-                            <div class="sidebar-title"><h2>Brochure</h2></div>
-                            <ul>
-                                <li><a href="#"><span class="icon fa fa-file-pdf-o"></span> Download.PDF</a></li>
-                                <li><a href="#"><span class="icon fa fa-file-word-o"></span> Download.Doc</a></li>
-                                <li><a href="#"><span class="icon fa fa-file-powerpoint-o"></span> Download.Ppt</a></li>
-                            </ul>
                         </div>
                         
                         <!--Sidebar Widget / Contact Widget-->
@@ -87,30 +68,14 @@
                             <div class="tab active-tab" id="tab-one">
                             	
                                 <!--Main Image-->
-                                <figure class="main-image"><img src="images/resource/service-image-1.jpg" alt=""></figure>
+                                <figure class="main-image"><img src="images/resource/web-development.jpg" alt=""></figure>
                                 
-                                <h2 class="service-title">Business Consulting</h2>
+                                <h2 class="service-title">Web Development</h2>
                                 <!--Default Text Block-->
                                 <div class="default-text-block">
-                                	<p>But they got diff'rent strokes. It takes diff'rent strokes - it takes diff'rent strokes to move the world. Come and listen to a story about a man named Jed a poor mountaineer barely kept his family fed. Its mission to explore strange new worlds to seek out new life and new civilizations to boldly go where no man has gone before.</p>
-                                    <p>Can you tell me how to get how to get to Sesame Street. Sunny Days sweepin' the clouds away. On my way to where the air is sweet. Can you tell me how to get how to get to Sesame Street.</p>
+                                	<p>Web applications are the best and easiest way to reach to your customers. We at Srimad solutions have a professional team that is experienced to build/support reliable and customer friendly web applications meeting your customer demands. We update ourselves with the latest in technology and use advanced tools such as Angular JS, JQuery, MVC framework, Java, JavaScript and HTML5. The members of our web app development team are quite well-versed in different programming languages as well as the latest strategies in web application development. Through our knowledge and expertise, we can cater to all the requirements of our clients and come up with top quality web applications that include all the features they expect.</p>
                                 </div>
-                                
-                                <!--Default Two Column-->
-                                <div class="default-two-column">
-                                    <div class="row clearfix">
-                                        <div class="image-column col-md-5 col-sm-6 col-xs-12">
-                                            <figure class="image-box"><img src="images/resource/featured-image-7.jpg" alt=""></figure>
-                                        </div>
-                                        <div class="text-column col-md-7 col-sm-6 col-xs-12">
-                                            <div class="default-text-block">
-                                                <p>Fish don't fry in the kitchen and beans don't burn on the grill. Took a whole lotta tryin' just to get up that hill. These days are all Happy and Free. These days are all share them with me oh baby.</p>
-                                                <p>Give us any chance well take it. Give us any rule we'll break it. We're gonna make our dreams come true. So join us here each week my friends you're sure to get a smile from seven stranded castaways here on Gilligans Isle. In 1972 a crack commando unit was sent to prison by a military court .</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                
+                               
                                 <!--Accordion Box / Style One-->
                                 <div class="accordion-box style-one">
                                     <h2>Frequently Asked Questions</h2>
@@ -144,28 +109,12 @@
                             <div class="tab" id="tab-two">
                             	
                                 <!--Main Image-->
-                                <figure class="main-image"><img src="images/resource/service-image-1.jpg" alt=""></figure>
+                                <figure class="main-image"><img src="images/resource/ios-development.png" alt=""></figure>
                                 
-                                <h2 class="service-title">Lawyers Consulting</h2>
+                                <h2 class="service-title">iOS Development</h2>
                                 <!--Default Text Block-->
                                 <div class="default-text-block">
-                                	<p>But they got diff'rent strokes. It takes diff'rent strokes - it takes diff'rent strokes to move the world. Come and listen to a story about a man named Jed a poor mountaineer barely kept his family fed. Its mission to explore strange new worlds to seek out new life and new civilizations to boldly go where no man has gone before.</p>
-                                    <p>Can you tell me how to get how to get to Sesame Street. Sunny Days sweepin' the clouds away. On my way to where the air is sweet. Can you tell me how to get how to get to Sesame Street.</p>
-                                </div>
-                                
-                                <!--Default Two Column-->
-                                <div class="default-two-column">
-                                    <div class="row clearfix">
-                                        <div class="image-column col-md-5 col-sm-6 col-xs-12">
-                                            <figure class="image-box"><img src="images/resource/featured-image-7.jpg" alt=""></figure>
-                                        </div>
-                                        <div class="text-column col-md-7 col-sm-6 col-xs-12">
-                                            <div class="default-text-block">
-                                                <p>Fish don't fry in the kitchen and beans don't burn on the grill. Took a whole lotta tryin' just to get up that hill. These days are all Happy and Free. These days are all share them with me oh baby.</p>
-                                                <p>Give us any chance well take it. Give us any rule we'll break it. We're gonna make our dreams come true. So join us here each week my friends you're sure to get a smile from seven stranded castaways here on Gilligans Isle. In 1972 a crack commando unit was sent to prison by a military court .</p>
-                                            </div>
-                                        </div>
-                                    </div>
+                                	<p>Mobile applications are a value add to your business. With a huge surge in usage of smart phones its mandatory to have customer facing applications supporting smartphones or tabs. We at Srimad solutions have a professional team that is experienced to build/support reliable and customer friendly IOS applications meeting your customer demands. We update ourselves with the latest in technology and use advanced tools such as Objective – C, Xcode, Swift and iOS SDK. Through our knowledge and expertise, we can cater to all the requirements of our clients and come up with top quality IOS applications that include all the features they expect.</p>
                                 </div>
                                 
                                 <!--Accordion Box / Style One-->
@@ -201,29 +150,14 @@
                             <div class="tab" id="tab-three">
                             	
                                 <!--Main Image-->
-                                <figure class="main-image"><img src="images/resource/service-image-1.jpg" alt=""></figure>
+                                <figure class="main-image"><img src="images/resource/android-app-development.png" alt=""></figure>
                                 
-                                <h2 class="service-title">IT Consulting</h2>
+                                <h2 class="service-title">Android Development</h2>
                                 <!--Default Text Block-->
                                 <div class="default-text-block">
-                                	<p>But they got diff'rent strokes. It takes diff'rent strokes - it takes diff'rent strokes to move the world. Come and listen to a story about a man named Jed a poor mountaineer barely kept his family fed. Its mission to explore strange new worlds to seek out new life and new civilizations to boldly go where no man has gone before.</p>
-                                    <p>Can you tell me how to get how to get to Sesame Street. Sunny Days sweepin' the clouds away. On my way to where the air is sweet. Can you tell me how to get how to get to Sesame Street.</p>
+                                	<p>Mobile applications are a value add to your business. With a huge surge in usage of smart phones its mandatory to have customer facing applications supporting smartphones or tabs. By virtue of open source nature of Android development, its hard to keep up with the diverse set of tools that have popped up. We update ourselves with the latest in technology and use advanced tools such as Java, Andriod SDK Tools and Android platform-tools. This enables us to develop Android mobile apps rapidly and cost effectively helping our clients to stay ahead in the business.</p>
                                 </div>
-                                
-                                <!--Default Two Column-->
-                                <div class="default-two-column">
-                                    <div class="row clearfix">
-                                        <div class="image-column col-md-5 col-sm-6 col-xs-12">
-                                            <figure class="image-box"><img src="images/resource/featured-image-7.jpg" alt=""></figure>
-                                        </div>
-                                        <div class="text-column col-md-7 col-sm-6 col-xs-12">
-                                            <div class="default-text-block">
-                                                <p>Fish don't fry in the kitchen and beans don't burn on the grill. Took a whole lotta tryin' just to get up that hill. These days are all Happy and Free. These days are all share them with me oh baby.</p>
-                                                <p>Give us any chance well take it. Give us any rule we'll break it. We're gonna make our dreams come true. So join us here each week my friends you're sure to get a smile from seven stranded castaways here on Gilligans Isle. In 1972 a crack commando unit was sent to prison by a military court .</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                            
                                 
                                 <!--Accordion Box / Style One-->
                                 <div class="accordion-box style-one">
@@ -317,28 +251,13 @@
                                 <!--Main Image-->
                                 <figure class="main-image"><img src="images/resource/service-image-1.jpg" alt=""></figure>
                                 
-                                <h2 class="service-title">Insurance Consulting</h2>
+                                <h2 class="service-title">Enterprise Application</h2>
                                 <!--Default Text Block-->
                                 <div class="default-text-block">
-                                	<p>But they got diff'rent strokes. It takes diff'rent strokes - it takes diff'rent strokes to move the world. Come and listen to a story about a man named Jed a poor mountaineer barely kept his family fed. Its mission to explore strange new worlds to seek out new life and new civilizations to boldly go where no man has gone before.</p>
-                                    <p>Can you tell me how to get how to get to Sesame Street. Sunny Days sweepin' the clouds away. On my way to where the air is sweet. Can you tell me how to get how to get to Sesame Street.</p>
+                                	<p>
+                                        Enterprise Application: Developing or managing enterprise applications are becoming more challenging due to integration of financial, human resource and CRM applications.  At Srimad Solutions we know that no one size fits all, so we provide our clients with necessary technical & business knowledge to maintain their complex and critical enterprise systems. Our experienced engineers offer extensive support in enterprise system solutions as SAP, SalesForce, Oracle Business suite and Peoplesoft.</p>
                                 </div>
-                                
-                                <!--Default Two Column-->
-                                <div class="default-two-column">
-                                    <div class="row clearfix">
-                                        <div class="image-column col-md-5 col-sm-6 col-xs-12">
-                                            <figure class="image-box"><img src="images/resource/featured-image-7.jpg" alt=""></figure>
-                                        </div>
-                                        <div class="text-column col-md-7 col-sm-6 col-xs-12">
-                                            <div class="default-text-block">
-                                                <p>Fish don't fry in the kitchen and beans don't burn on the grill. Took a whole lotta tryin' just to get up that hill. These days are all Happy and Free. These days are all share them with me oh baby.</p>
-                                                <p>Give us any chance well take it. Give us any rule we'll break it. We're gonna make our dreams come true. So join us here each week my friends you're sure to get a smile from seven stranded castaways here on Gilligans Isle. In 1972 a crack commando unit was sent to prison by a military court .</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                
+                            
                                 <!--Accordion Box / Style One-->
                                 <div class="accordion-box style-one">
                                     <h2>Frequently Asked Questions</h2>
@@ -372,7 +291,7 @@
                             <div class="tab" id="tab-six">
                             	
                                 <!--Main Image-->
-                                <figure class="main-image"><img src="images/resource/service-image-1.jpg" alt=""></figure>
+                                <figure class="main-image"><img src="images/resource/SAP-development.png" alt=""></figure>
                                 
                                 <h2 class="service-title">Childrens Planning</h2>
                                 <!--Default Text Block-->
@@ -527,8 +446,8 @@
                                 <div class="footer-widget contact-widget">
                                     <h3>Contact Us</h3>	
                                     <ul class="contact-info">
-                                        <li><h4>Address</h4><p>Shrimad Solutions Inc, 06 Highley St, Victoria, Australia.</p></li>
-                                        <li><h4>Email Us</h4><p><a href="mailto:Info@Shrimad Solutions.Com">Info@Shrimad Solutions.Com</a> <br><a href="mailto:Support@Shrimad Solutions.Com">Support@Shrimad Solutions.Com</a></p></li>
+                                        <li><h4>Address</h4><p>Srimad Solutions Inc, 06 Highley St, Victoria, Australia.</p></li>
+                                        <li><h4>Email Us</h4><p><a href="mailto:Info@Srimad Solutions.Com">Info@Srimad Solutions.Com</a> <br><a href="mailto:Support@Srimad Solutions.Com">Support@Srimad Solutions.Com</a></p></li>
                                         <li><h4>Call Us</h4><p>+(10) 123 456 7896 <br>+(10) 123 456 7899</p></li>
                                     </ul>
                                 </div>

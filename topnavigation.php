@@ -6,7 +6,7 @@
             	<!-- Top Left -->
             	<div class="top-left">
                 	<ul class="clearfix">
-                    	<li><a href="#">Welcome to Shrimad Solutions - Making businesses better</a></li>
+                    	<li><a href="#">Welcome to Srimad Solutions - Making businesses better</a></li>
                     </ul>
                 </div>
                 
@@ -26,7 +26,7 @@
             	<div class="clearfix">
                 	
                 	<div class="pull-left logo-outer">
-                    	<div class="logo"><a href="#"><img src="images/logo.jpg" alt="" title="Shrimad Solutions"></a></div>
+                    	<div class="logo"><a href="#"><img src="images/logo.jpg" alt="" title="Srimad Solutions"></a></div>
                     </div>
                     
                     <div class="pull-right upper-right clearfix">
@@ -96,9 +96,9 @@
                                 </li>
                                 <li class="dropdown"><a href="training.php">Training</a>
                                     <ul>
-                                        <li><a href="projects.html">UI Training</a></li>
+                                        <li><a href="ui-training.php">UI Training</a></li>
                                         <li><a href="java-training.php">JAVA Training</a></li>
-                                        <li><a href="projects-3.html">QA Training</a></li>
+                                        <li><a href="qa-training.php">QA Training</a></li>
                                         <li class="dropdown"><a href="blog-leftbar.html">Business Analyst Training</a>
                                         </li>
                                     </ul>
@@ -152,9 +152,9 @@
                                 </li>
                                 <li class="dropdown"><a href="training.php">Training</a>
                                     <ul>
-                                        <li><a href="projects.html">UI Training</a></li>
+                                        <li><a href="ui-training.php">UI Training</a></li>
                                         <li><a href="java-training.php">JAVA Training</a></li>
-                                        <li><a href="projects-3.html">QA Training</a></li>
+                                        <li><a href="qa-training.php">QA Training</a></li>
                                         <li class="dropdown"><a href="blog-leftbar.html">Business Analyst Training</a>
                                         </li>
                                     </ul>

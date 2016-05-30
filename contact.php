@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Shrimad Solutions HTML5 Template | Contact Style One</title>
+<title>Srimad Solutions HTML5 Template | Contact Style One</title>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
@@ -40,9 +40,9 @@
                         <h3 class="upper-title">Contact Informations</h3>
                         <div class="lower">
                             <ul class="info-style-one">
-                                <li><div class="icon"><span class="flaticon-pin"></span></div> <h4>We Are Located At</h4> Shrimad Solutions Inc <br> 301 N Severgn Drive, Exton, PA 19341, USA.</li>
+                                <li><div class="icon"><span class="flaticon-pin"></span></div> <h4>We Are Located At</h4> Srimad Solutions Inc <br> 301 N Severgn Drive, Exton, PA 19341, USA.</li>
                                 <li><div class="icon"><span class="flaticon-telephone"></span></div> <h4>Call Us On</h4> +(1) 302 287 5911</li>
-                                <li><div class="icon"><span class="flaticon-web-3"></span></div> <h4>Leave A Message</h4> <a href="mailto:Info@Shrimad Solutions.Com">Info@ShrimadSolutions.Com</a> <br><a href="mailto:Support@Shrimad Solutions.Com">Support@ShrimadSolutions.Com</a></li>
+                                <li><div class="icon"><span class="flaticon-web-3"></span></div> <h4>Leave A Message</h4> <a href="mailto:Info@Srimad Solutions.Com">Info@SrimadSolutions.Com</a> <br><a href="mailto:Support@Srimad Solutions.Com">Support@SrimadSolutions.Com</a></li>
                             </ul>
                         </div>
                     </div>
