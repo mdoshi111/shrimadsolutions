@@ -47,7 +47,7 @@
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
                     data-endeasing="Power4.easeIn"
-                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><h3 class="italic-heading">Welcome to Srimad Solutions</h3></div>
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><h3 class="italic-heading">Welcome to Srimad Solutions Inc</h3></div>
                     
                     <div class="tp-caption sfr sfb tp-resizeme"
                     data-x="left" data-hoffset="15"
@@ -160,7 +160,7 @@
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
                     data-endeasing="Power4.easeIn"
-                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><h3>Welcome to Srimad Solutions</h3></div>
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><h3>Welcome to Srimad Solutions Inc</h3></div>
                     
                     <div class="tp-caption sfr sfb tp-resizeme"
                     data-x="left" data-hoffset="15"
@@ -214,52 +214,8 @@
         </div>
     </section>
     
-    
-    <!--Features Style One-->
-    <section class="features-style-one">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	
-               <!--Features Column-->
-                <div class="column features-column col-md-4 col-sm-6 col-xs-12">
-                    <div class="inner-box">
-                        <div class="count wow zoomInStable" data-wow-delay="0ms" data-wow-duration="1500ms">01.</div>
-                        <div class="title-box">
-                            <h4>We are Srimad Solutions</h4>
-                            <h3>IT Staffing</h3>
-                        </div>
-                        <div class="text">We strive to provide IT consultants with best talents and right skills to meet the requirements of our clients.</div>
-                    </div>
-                </div>
-                
-                <!--Features Column-->
-                <div class="column features-column col-md-4 col-sm-6 col-xs-12">
-                    <div class="inner-box">
-                        <div class="count wow zoomInStable" data-wow-delay="300ms" data-wow-duration="1500ms">02.</div>
-                        <div class="title-box">
-                            <h4>We are Srimad Solutions</h4>
-                            <h3>IT Development</h3>
-                        </div>
-                        <div class="text">We have the right team of engineers to build/support enterprise level applications at low cost and high quality.</div>
-                    </div>
-                </div>
-                
-                <!--Features Column-->
-                <div class="column features-column col-md-4 col-sm-6 col-xs-12">
-                    <div class="inner-box">
-                        <div class="count wow zoomInStable" data-wow-delay="600ms" data-wow-duration="1500ms">03.</div>
-                        <div class="title-box">
-                            <h4>We are Srimad Solutions</h4>
-                            <h3>IT Training</h3>
-                        </div>
-                        <div class="text">We offer corporate/individual training on emerging and trending technologies.</div>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </section>
-    
+
+    <?php include ('main-services.php'); ?>
     
     <!--Services Style One-->
     <section class="services-style-one">
@@ -274,7 +230,7 @@
                 <div class="left-column col-lg-4 col-md-12">
                 	<div class="inner-box">
                     	<h2>Our <br>Services</h2>
-                        <div class="text">A shadowy flight into the dangerous world of a man who does not exist. Flying away on a wing and a prayer. Who could it be. Believe it or not its just me. Movin' on up to the east side. We finally got a piece of the pie.</div>
+                        <div class="text">Dedicated team of engineers committed to provide quality and a smiling service</div>
                     </div>
                 </div>
                 
@@ -287,9 +243,9 @@
                             <div class="default-icon-column col-md-6 col-sm-6 col-xs-12">
                             	<div class="inner">
                                 	<div class="icon-box"><span class="flaticon-graphic-3"></span></div>
-                                    <h3>Business Consulting</h3>
+                                    <h3>IT Services & Solutions</h3>
                                     <div class="text">
-                                    	<p>A man is born he's a man of means. Then along come two they got nothin' but their jeans all of them had hair of gold like their mother.</p>
+                                        <p>Our engineers at Srimad Solutions work at leading technology firms to design and architect wide range of customer facing applications.</p>
                                     </div>
                                 </div>
                             </div>
@@ -298,9 +254,9 @@
                             <div class="default-icon-column col-md-6 col-sm-6 col-xs-12">
                             	<div class="inner">
                                 	<div class="icon-box"><span class="flaticon-food-1"></span></div>
-                                    <h3>Online Consulting</h3>
+                                    <h3>Cloud Solutions</h3>
                                     <div class="text">
-                                    	<p>A man is born he's a man of means. Then along come two they got nothin' but their jeans all of them had hair of gold like their mother.</p>
+                                        <p>We can help you manage your software, platform and Infrastructure as a service on the cloud. We have expertise working on major providers like AWS, Azure, VMware and OpenStack</p>
                                     </div>
                                 </div>
                             </div>
@@ -309,9 +265,20 @@
                             <div class="default-icon-column col-md-6 col-sm-6 col-xs-12">
                             	<div class="inner">
                                 	<div class="icon-box"><span class="flaticon-technology-6"></span></div>
-                                    <h3>IT Consulting</h3>
+                                    <h3>Big Data</h3>
                                     <div class="text">
-                                    	<p>A man is born he's a man of means. Then along come two they got nothin' but their jeans all of them had hair of gold like their mother.</p>
+                                        <p>Analyzing vast customer data is very important in discovering insights or answering questions. We have the combined experience of SQL, statstics, Machine Learning and programming to transform data into formats that can be analyzed for insights.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--Icon Column-->
+                            <div class="default-icon-column col-md-6 col-sm-6 col-xs-12">
+                                <div class="inner">
+                                    <div class="icon-box"><span class="flaticon-technology-6"></span></div>
+                                    <h3>BPO Services</h3>
+                                    <div class="text">
+                                        <p>We are capable to handle both voice and non-voice Customer Service and Tech support. With our existing robust and reliable infrastructure we can server clients 24/7</p>
                                     </div>
                                 </div>
                             </div>
@@ -324,51 +291,8 @@
         </div>
     </section>
     
-    
-    <!--Two Column Fluid-->
-    <section class="two-col-fluid">
-    	<div class="outer-box clearfix">
-        	<!--Image Column-->
-            <div class="image-column" style="background-image:url(images/background/image-3.jpg);"></div>
-            
-            <!--Content Column-->
-            <div class="content-column">
-            	<div class="content-inner">
-                	
-                    <!--Accordion Box / Style One-->
-                    <div class="accordion-box style-one">
-                    	<h2>Frequently Asked Questions</h2>
-                        <!-- Accordion -->
-                        <div class="accordion accordion-block">
-                            <div class="accord-btn active"><h4>How quickly can I initiate a project ?</h4></div>
-                            <div class="accord-content collapsed">
-                                <p>Just sit right back and you'll hear a tale a tale of a fateful trip that started from this tropic port aboard this tiny ship all of them had hair of gold like their mother the youngest one in curls. Space. The final frontier.</p>
-                            </div>
-                        </div>
-                        <!-- Accordion -->
-                        <div class="accordion accordion-block">
-                            <div class="accord-btn"><h4>Where are your consultants based ?</h4></div>
-                            <div class="accord-content">
-                                <p>Just sit right back and you'll hear a tale a tale of a fateful trip that started from this tropic port aboard this tiny ship all of them had hair of gold like their mother the youngest one in curls. Space. The final frontier.</p>
-                            </div>
-                        </div>
-                        <!-- Accordion -->
-                        <div class="accordion accordion-block">
-                            <div class="accord-btn"><h4>What is the fee for your service ?</h4></div>
-                            <div class="accord-content">
-                                <p>Just sit right back and you'll hear a tale a tale of a fateful trip that started from this tropic port aboard this tiny ship all of them had hair of gold like their mother the youngest one in curls. Space. The final frontier.</p>
-                            </div>
-                        </div>
-                    </div>
-                    
-                </div>
-            </div>
-            
-        </div>
-    </section>
-    
-    
-    
+    <?php include ('faq.php'); ?>
+
     <!--Request Quote Section-->
     <section class="request-quote-section">
     	<div class="auto-container">

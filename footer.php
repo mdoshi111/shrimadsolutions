@@ -13,7 +13,7 @@
                                 <div class="footer-widget about-widget">
                                     <h3 class="logo-text">Srimad<br><span class="theme_color">Solutions</span></h3>
                                     <div class="text margin-bott-30">
-                                        <p>The first mate and his Skipper too will do their very best to make the others comfortable in their tropic island nest. Fleeing from the Cylon tyranny last Battlestar galactica leads.</p>
+                                        <p></p>
                                     </div>
                                     
                                     <div class="social-links">
@@ -54,15 +54,9 @@
                                                 <li><a href="#">Home</a></li>
                                                 <li><a href="#">About Us</a></li>
                                                 <li><a href="#">Services</a></li>
+                                                <li><a href="#">IT Training</a></li>
                                             </ul>
                                         </div>
-                                        
-                                        <div class="col-lg-6 col-sm-6 col-xs-12">
-                                            <ul>
-                                                <li><a href="#">Consultation</a></li>
-                                            </ul>
-                                        </div>
-                                        
                                     </div>
                                     
                                 </div>

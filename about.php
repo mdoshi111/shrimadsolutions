@@ -30,105 +30,17 @@
         </div>
     </section>
     
-    
-    <!--Features Style One-->
-    <section class="features-style-one">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	
-                <!--Features Column-->
-            	<div class="column features-column col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="count wow zoomInStable" data-wow-delay="0ms" data-wow-duration="1500ms">01.</div>
-                        <div class="title-box">
-                        	<h4>We are Srimad Solutions</h4>
-                            <h3>Learning Solutions</h3>
-                        </div>
-                        <div class="text">These men promptly escaped from a maximum security stockade to the Los Angeles underground. The Brady Bunch the Brady Bunch.</div>
-                    </div>
-                </div>
-                
-                <!--Features Column-->
-            	<div class="column features-column col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="count wow zoomInStable" data-wow-delay="300ms" data-wow-duration="1500ms">02.</div>
-                        <div class="title-box">
-                        	<h4>We are Srimad Solutions</h4>
-                            <h3>Change Management</h3>
-                        </div>
-                        <div class="text">These men promptly escaped from a maximum security stockade to the Los Angeles underground. The Brady Bunch the Brady Bunch.</div>
-                    </div>
-                </div>
-                
-                <!--Features Column-->
-            	<div class="column features-column col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box">
-                    	<div class="count wow zoomInStable" data-wow-delay="600ms" data-wow-duration="1500ms">03.</div>
-                        <div class="title-box">
-                        	<h4>We are Srimad Solutions</h4>
-                            <h3>Learning Technologies</h3>
-                        </div>
-                        <div class="text">These men promptly escaped from a maximum security stockade to the Los Angeles underground. The Brady Bunch the Brady Bunch.</div>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </section>
+    <?php include ('main-services.php'); ?>
     
     
     <!--Intro Style Two-->
     <section class="intro-style-two" style="background-image:url(images/background/image-4.jpg);">
     	<div class="auto-container">
-        	<h3>Investing with innovation</h3>
-            <h2>Innovative solutions to move your <br>business forward</h2>
-            <a href="#" class="theme-btn btn-style-four">Contact Us</a>
+        	<h3>IT Services</h3>
+            <h2>Innovative solutions to move your <br>business forward with our sevices</h2>
+            <a href="contact.php" class="theme-btn btn-style-four">Contact Us</a>
         </div>
     </section>
-
-    
-    <!--Two Column Fluid-->
-    <section class="two-col-fluid">
-    	<div class="outer-box clearfix">
-        	<!--Image Column-->
-            <div class="image-column" style="background-image:url(images/background/image-3.jpg);"></div>
-            
-            <!--Content Column-->
-            <div class="content-column">
-            	<div class="content-inner">
-                	
-                    <!--Accordion Box / Style One-->
-                    <div class="accordion-box style-one">
-                    	<h2>Frequently Asked Questions</h2>
-                        <!-- Accordion -->
-                        <div class="accordion accordion-block">
-                            <div class="accord-btn active"><h4>How quickly can I initiate a project ?</h4></div>
-                            <div class="accord-content collapsed">
-                                <p>Just sit right back and you'll hear a tale a tale of a fateful trip that started from this tropic port aboard this tiny ship all of them had hair of gold like their mother the youngest one in curls. Space. The final frontier.</p>
-                            </div>
-                        </div>
-                        <!-- Accordion -->
-                        <div class="accordion accordion-block">
-                            <div class="accord-btn"><h4>Where are your consultants based ?</h4></div>
-                            <div class="accord-content">
-                                <p>Just sit right back and you'll hear a tale a tale of a fateful trip that started from this tropic port aboard this tiny ship all of them had hair of gold like their mother the youngest one in curls. Space. The final frontier.</p>
-                            </div>
-                        </div>
-                        <!-- Accordion -->
-                        <div class="accordion accordion-block">
-                            <div class="accord-btn"><h4>What is the fee for your service ?</h4></div>
-                            <div class="accord-content">
-                                <p>Just sit right back and you'll hear a tale a tale of a fateful trip that started from this tropic port aboard this tiny ship all of them had hair of gold like their mother the youngest one in curls. Space. The final frontier.</p>
-                            </div>
-                        </div>
-                    </div>
-                    
-                </div>
-            </div>
-            
-        </div>
-    </section>
-    
     
     <!--Our Team Section-->
     <!--
