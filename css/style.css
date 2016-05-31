@@ -2542,7 +2542,7 @@ ul,li{
 }
 
 .footer-upper .column h3.logo-text{
-	font-size:36px;
+	font-size:30px;
 	font-weight:700;	
 }
 
@@ -4649,3 +4649,10 @@ ul,li{
 	font-size:18px;
 	color:#181818;
 }
+.small-logo{font-size: 30px;
+    font-style: inherit;
+    font-weight: bold;
+    line-height: 42px;}
+
+.logo{font-family: 'Lora, serif';}
+.footer-upper .column h3.logo-text{color:#247fe1;}

@@ -40,7 +40,7 @@
                                     <li class="tab-btn" data-tab="#tab-two">IOS App Development <span class="icon fa fa-angle-right"></span></li>
                                     <li class="tab-btn" data-tab="#tab-three">Android Development <span class="icon fa fa-angle-right"></span></li>
                                     <li class="tab-btn" data-tab="#tab-four">Wordpress Development <span class="icon fa fa-angle-right"></span></li>
-                                    <li class="tab-btn" data-tab="#tab-five">Enterprise System <span class="icon fa fa-angle-right"></span></li>
+                                    <li class="tab-btn" data-tab="#tab-five">Enterprise Application <span class="icon fa fa-angle-right"></span></li>
                                     <li class="tab-btn" data-tab="#tab-six">SAP <span class="icon fa fa-angle-right"></span></li>
                                 </ul>
                             </nav>
@@ -50,7 +50,7 @@
                         <div class="widget sidebar-widget contact-widget">
                             <h3>Have any Questions?<br>Call Us:</h3>
                             <div class="phone-numbers">
-                            	(+01) 123 456 7896 <br>(or) <br>(+01) 123 456 7899
+                            	(+01) 302 287 5911 
                             </div>
                         </div>
                         
@@ -76,33 +76,6 @@
                                 	<p>Web applications are the best and easiest way to reach to your customers. We at Srimad solutions have a professional team that is experienced to build/support reliable and customer friendly web applications meeting your customer demands. We update ourselves with the latest in technology and use advanced tools such as Angular JS, JQuery, MVC framework, Java, JavaScript and HTML5. The members of our web app development team are quite well-versed in different programming languages as well as the latest strategies in web application development. Through our knowledge and expertise, we can cater to all the requirements of our clients and come up with top quality web applications that include all the features they expect.</p>
                                 </div>
                                
-                                <!--Accordion Box / Style One-->
-                                <div class="accordion-box style-one">
-                                    <h2>Frequently Asked Questions</h2>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn active"><h4>How to choose correct lawyers in regarding with case?</h4></div>
-                                        <div class="accord-content collapsed">
-                                            <p>And we'll do it our way yes our way. Make all our dreams come true for me and you. Didn't need no welfare states. Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Come and dance on our floor. Take a step that is new world don't move to the beat.</p>
-                                        </div>
-                                    </div>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn"><h4>What are the documents needed to meet the lawyers?</h4></div>
-                                        <div class="accord-content">
-                                            <p>Just sit right back and you'll hear a tale a tale of a fateful trip that started from this tropic port aboard this tiny ship all of them had hair of gold like their mother the youngest one in curls. Space. The final frontier.</p>
-                                        </div>
-                                    </div>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn"><h4>Can i communicate with lawyers online?</h4></div>
-                                        <div class="accord-content">
-                                            <p>And we'll do it our way yes our way. Make all our dreams come true for me and you. Didn't need no welfare states. Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Come and dance on our floor. Take a step that is new world don't move to the beat.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                    
-                    
                             </div>
                             
                             <!--Tab-->
@@ -116,33 +89,7 @@
                                 <div class="default-text-block">
                                 	<p>Mobile applications are a value add to your business. With a huge surge in usage of smart phones its mandatory to have customer facing applications supporting smartphones or tabs. We at Srimad solutions have a professional team that is experienced to build/support reliable and customer friendly IOS applications meeting your customer demands. We update ourselves with the latest in technology and use advanced tools such as Objective – C, Xcode, Swift and iOS SDK. Through our knowledge and expertise, we can cater to all the requirements of our clients and come up with top quality IOS applications that include all the features they expect.</p>
                                 </div>
-                                
-                                <!--Accordion Box / Style One-->
-                                <div class="accordion-box style-one">
-                                    <h2>Frequently Asked Questions</h2>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn active"><h4>How to choose correct lawyers in regarding with case?</h4></div>
-                                        <div class="accord-content collapsed">
-                                            <p>And we'll do it our way yes our way. Make all our dreams come true for me and you. Didn't need no welfare states. Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Come and dance on our floor. Take a step that is new world don't move to the beat.</p>
-                                        </div>
-                                    </div>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn"><h4>What are the documents needed to meet the lawyers?</h4></div>
-                                        <div class="accord-content">
-                                            <p>Just sit right back and you'll hear a tale a tale of a fateful trip that started from this tropic port aboard this tiny ship all of them had hair of gold like their mother the youngest one in curls. Space. The final frontier.</p>
-                                        </div>
-                                    </div>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn"><h4>Can i communicate with lawyers online?</h4></div>
-                                        <div class="accord-content">
-                                            <p>And we'll do it our way yes our way. Make all our dreams come true for me and you. Didn't need no welfare states. Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Come and dance on our floor. Take a step that is new world don't move to the beat.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                    
+
                     
                             </div>
                             
@@ -158,98 +105,31 @@
                                 	<p>Mobile applications are a value add to your business. With a huge surge in usage of smart phones its mandatory to have customer facing applications supporting smartphones or tabs. By virtue of open source nature of Android development, its hard to keep up with the diverse set of tools that have popped up. We update ourselves with the latest in technology and use advanced tools such as Java, Andriod SDK Tools and Android platform-tools. This enables us to develop Android mobile apps rapidly and cost effectively helping our clients to stay ahead in the business.</p>
                                 </div>
                             
-                                
-                                <!--Accordion Box / Style One-->
-                                <div class="accordion-box style-one">
-                                    <h2>Frequently Asked Questions</h2>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn active"><h4>How to choose correct lawyers in regarding with case?</h4></div>
-                                        <div class="accord-content collapsed">
-                                            <p>And we'll do it our way yes our way. Make all our dreams come true for me and you. Didn't need no welfare states. Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Come and dance on our floor. Take a step that is new world don't move to the beat.</p>
-                                        </div>
-                                    </div>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn"><h4>What are the documents needed to meet the lawyers?</h4></div>
-                                        <div class="accord-content">
-                                            <p>Just sit right back and you'll hear a tale a tale of a fateful trip that started from this tropic port aboard this tiny ship all of them had hair of gold like their mother the youngest one in curls. Space. The final frontier.</p>
-                                        </div>
-                                    </div>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn"><h4>Can i communicate with lawyers online?</h4></div>
-                                        <div class="accord-content">
-                                            <p>And we'll do it our way yes our way. Make all our dreams come true for me and you. Didn't need no welfare states. Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Come and dance on our floor. Take a step that is new world don't move to the beat.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                    
-                    
                             </div>
                             
                             <!--Tab-->
                             <div class="tab" id="tab-four">
                             	
                                 <!--Main Image-->
-                                <figure class="main-image"><img src="images/resource/service-image-1.jpg" alt=""></figure>
+                                <figure class="main-image"><img src="images/resource/wordpress-development.png" alt=""></figure>
                                 
-                                <h2 class="service-title">Online Consulting</h2>
+                                <h2 class="service-title">Wordpresss Development</h2>
                                 <!--Default Text Block-->
                                 <div class="default-text-block">
-                                	<p>But they got diff'rent strokes. It takes diff'rent strokes - it takes diff'rent strokes to move the world. Come and listen to a story about a man named Jed a poor mountaineer barely kept his family fed. Its mission to explore strange new worlds to seek out new life and new civilizations to boldly go where no man has gone before.</p>
-                                    <p>Can you tell me how to get how to get to Sesame Street. Sunny Days sweepin' the clouds away. On my way to where the air is sweet. Can you tell me how to get how to get to Sesame Street.</p>
+                                	<p>The custom WordPress development services of Srimad Solutions are formulated to help you set up a website that is in synchronization with how you envisage it to look and function. Managing content on the website customized by us becomes a breeze, and a much rewarding exercise. We have a unique approach of serving our clients and this approach is backed by our firm strategies and expertise of our team of highly skilled programmers and designers.
+                                    </p>
+
+                                    <p>
+                                    Giving you a free rein over your website's design and development, Our custom WordPress development services propel your website to make sustainable impact. The services include developing different plugins for different features, creating multi-faceted themes and templates, optimizing your website for SEO, making it more responsive across different platforms, dictating its graphics, etc. Whether you wish its design to be fancy and full of fluff, or you want it to be minimal yet impactful, our developers lend you that versatility and enable you to add that much-needed fullness to your website's character.
+                                    </p>
                                 </div>
-                                
-                                <!--Default Two Column-->
-                                <div class="default-two-column">
-                                    <div class="row clearfix">
-                                        <div class="image-column col-md-5 col-sm-6 col-xs-12">
-                                            <figure class="image-box"><img src="images/resource/featured-image-7.jpg" alt=""></figure>
-                                        </div>
-                                        <div class="text-column col-md-7 col-sm-6 col-xs-12">
-                                            <div class="default-text-block">
-                                                <p>Fish don't fry in the kitchen and beans don't burn on the grill. Took a whole lotta tryin' just to get up that hill. These days are all Happy and Free. These days are all share them with me oh baby.</p>
-                                                <p>Give us any chance well take it. Give us any rule we'll break it. We're gonna make our dreams come true. So join us here each week my friends you're sure to get a smile from seven stranded castaways here on Gilligans Isle. In 1972 a crack commando unit was sent to prison by a military court .</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <!--Accordion Box / Style One-->
-                                <div class="accordion-box style-one">
-                                    <h2>Frequently Asked Questions</h2>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn active"><h4>How to choose correct lawyers in regarding with case?</h4></div>
-                                        <div class="accord-content collapsed">
-                                            <p>And we'll do it our way yes our way. Make all our dreams come true for me and you. Didn't need no welfare states. Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Come and dance on our floor. Take a step that is new world don't move to the beat.</p>
-                                        </div>
-                                    </div>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn"><h4>What are the documents needed to meet the lawyers?</h4></div>
-                                        <div class="accord-content">
-                                            <p>Just sit right back and you'll hear a tale a tale of a fateful trip that started from this tropic port aboard this tiny ship all of them had hair of gold like their mother the youngest one in curls. Space. The final frontier.</p>
-                                        </div>
-                                    </div>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn"><h4>Can i communicate with lawyers online?</h4></div>
-                                        <div class="accord-content">
-                                            <p>And we'll do it our way yes our way. Make all our dreams come true for me and you. Didn't need no welfare states. Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Come and dance on our floor. Take a step that is new world don't move to the beat.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                    
-                    
                             </div>
                             
                             <!--Tab-->
                             <div class="tab" id="tab-five">
                             	
                                 <!--Main Image-->
-                                <figure class="main-image"><img src="images/resource/service-image-1.jpg" alt=""></figure>
+                                <figure class="main-image"><img src="images/resource/enterprise-app-development.jpg" alt=""></figure>
                                 
                                 <h2 class="service-title">Enterprise Application</h2>
                                 <!--Default Text Block-->
@@ -257,34 +137,6 @@
                                 	<p>
                                         Enterprise Application: Developing or managing enterprise applications are becoming more challenging due to integration of financial, human resource and CRM applications.  At Srimad Solutions we know that no one size fits all, so we provide our clients with necessary technical & business knowledge to maintain their complex and critical enterprise systems. Our experienced engineers offer extensive support in enterprise system solutions as SAP, SalesForce, Oracle Business suite and Peoplesoft.</p>
                                 </div>
-                            
-                                <!--Accordion Box / Style One-->
-                                <div class="accordion-box style-one">
-                                    <h2>Frequently Asked Questions</h2>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn active"><h4>How to choose correct lawyers in regarding with case?</h4></div>
-                                        <div class="accord-content collapsed">
-                                            <p>And we'll do it our way yes our way. Make all our dreams come true for me and you. Didn't need no welfare states. Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Come and dance on our floor. Take a step that is new world don't move to the beat.</p>
-                                        </div>
-                                    </div>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn"><h4>What are the documents needed to meet the lawyers?</h4></div>
-                                        <div class="accord-content">
-                                            <p>Just sit right back and you'll hear a tale a tale of a fateful trip that started from this tropic port aboard this tiny ship all of them had hair of gold like their mother the youngest one in curls. Space. The final frontier.</p>
-                                        </div>
-                                    </div>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn"><h4>Can i communicate with lawyers online?</h4></div>
-                                        <div class="accord-content">
-                                            <p>And we'll do it our way yes our way. Make all our dreams come true for me and you. Didn't need no welfare states. Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Come and dance on our floor. Take a step that is new world don't move to the beat.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                    
-                    
                             </div>
                             
                             <!--Tab-->
@@ -293,113 +145,21 @@
                                 <!--Main Image-->
                                 <figure class="main-image"><img src="images/resource/SAP-development.png" alt=""></figure>
                                 
-                                <h2 class="service-title">Childrens Planning</h2>
+                                <h2 class="service-title">SAP</h2>
                                 <!--Default Text Block-->
-                                <div class="default-text-block">
-                                	<p>But they got diff'rent strokes. It takes diff'rent strokes - it takes diff'rent strokes to move the world. Come and listen to a story about a man named Jed a poor mountaineer barely kept his family fed. Its mission to explore strange new worlds to seek out new life and new civilizations to boldly go where no man has gone before.</p>
-                                    <p>Can you tell me how to get how to get to Sesame Street. Sunny Days sweepin' the clouds away. On my way to where the air is sweet. Can you tell me how to get how to get to Sesame Street.</p>
+                                 <div class="default-text-block">
+                                    <p>SAP is the world’s largest enterprise applications software company - as measured by software and service-related revenue - with 172,000 customers around the globe. Unlike many of its competitors, SAP has mostly grown organically and has just a few significant acquisitions under its belt. Much of SAP’s customer base consists of very large enterprise accounts. However, they have made significant gains in the small and medium enterprise (SME) market with their Business All-in-One, Business ByDesign and Business One product lines.
+                                    </p>
+                                    <p>
+                                    SAP offers a wide range of enterprise resource planning (ERP) applications including customer relationship management (CRM), financial management, human capital management, product lifecycle management, and supply chain management. They also have a large network of partners (i.e. the SAP Ecosystem) that provide unique integration and customization offerings for specific markets. For example, Et Alia has developed CREW All-in-One for the construction industry, which is built on SAP Business All-in-One.
+                                    </p>
+                                    <p>
+                                    In addition to its ERP products, SAP offers several business analytics applications as part of its BusinessObjects product line. BusinessObjects is one of SAP’s more notable acquisitions which was announced back in 2007. This acquisition pushed SAP into the business intelligence (BI) leaders circle with IBM, Oracle and Microsoft. They are reinforcing their position with recent innovations such as SAP HANA, their in-memory technology that allows organizations to run queries from multiple data sources in real time. Click on one of the links below to learn more about a specific SAP product, application or industry solution.
+                                    </p>
+
                                 </div>
-                                
-                                <!--Default Two Column-->
-                                <div class="default-two-column">
-                                    <div class="row clearfix">
-                                        <div class="image-column col-md-5 col-sm-6 col-xs-12">
-                                            <figure class="image-box"><img src="images/resource/featured-image-7.jpg" alt=""></figure>
-                                        </div>
-                                        <div class="text-column col-md-7 col-sm-6 col-xs-12">
-                                            <div class="default-text-block">
-                                                <p>Fish don't fry in the kitchen and beans don't burn on the grill. Took a whole lotta tryin' just to get up that hill. These days are all Happy and Free. These days are all share them with me oh baby.</p>
-                                                <p>Give us any chance well take it. Give us any rule we'll break it. We're gonna make our dreams come true. So join us here each week my friends you're sure to get a smile from seven stranded castaways here on Gilligans Isle. In 1972 a crack commando unit was sent to prison by a military court .</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <!--Accordion Box / Style One-->
-                                <div class="accordion-box style-one">
-                                    <h2>Frequently Asked Questions</h2>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn active"><h4>How to choose correct lawyers in regarding with case?</h4></div>
-                                        <div class="accord-content collapsed">
-                                            <p>And we'll do it our way yes our way. Make all our dreams come true for me and you. Didn't need no welfare states. Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Come and dance on our floor. Take a step that is new world don't move to the beat.</p>
-                                        </div>
-                                    </div>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn"><h4>What are the documents needed to meet the lawyers?</h4></div>
-                                        <div class="accord-content">
-                                            <p>Just sit right back and you'll hear a tale a tale of a fateful trip that started from this tropic port aboard this tiny ship all of them had hair of gold like their mother the youngest one in curls. Space. The final frontier.</p>
-                                        </div>
-                                    </div>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn"><h4>Can i communicate with lawyers online?</h4></div>
-                                        <div class="accord-content">
-                                            <p>And we'll do it our way yes our way. Make all our dreams come true for me and you. Didn't need no welfare states. Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Come and dance on our floor. Take a step that is new world don't move to the beat.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                    
-                    
                             </div>
-                            
-                            <!--Tab-->
-                            <div class="tab" id="tab-seven">
-                            	
-                                <!--Main Image-->
-                                <figure class="main-image"><img src="images/resource/service-image-1.jpg" alt=""></figure>
-                                
-                                <h2 class="service-title">Mutual Funds</h2>
-                                <!--Default Text Block-->
-                                <div class="default-text-block">
-                                	<p>But they got diff'rent strokes. It takes diff'rent strokes - it takes diff'rent strokes to move the world. Come and listen to a story about a man named Jed a poor mountaineer barely kept his family fed. Its mission to explore strange new worlds to seek out new life and new civilizations to boldly go where no man has gone before.</p>
-                                    <p>Can you tell me how to get how to get to Sesame Street. Sunny Days sweepin' the clouds away. On my way to where the air is sweet. Can you tell me how to get how to get to Sesame Street.</p>
-                                </div>
-                                
-                                <!--Default Two Column-->
-                                <div class="default-two-column">
-                                    <div class="row clearfix">
-                                        <div class="image-column col-md-5 col-sm-6 col-xs-12">
-                                            <figure class="image-box"><img src="images/resource/featured-image-7.jpg" alt=""></figure>
-                                        </div>
-                                        <div class="text-column col-md-7 col-sm-6 col-xs-12">
-                                            <div class="default-text-block">
-                                                <p>Fish don't fry in the kitchen and beans don't burn on the grill. Took a whole lotta tryin' just to get up that hill. These days are all Happy and Free. These days are all share them with me oh baby.</p>
-                                                <p>Give us any chance well take it. Give us any rule we'll break it. We're gonna make our dreams come true. So join us here each week my friends you're sure to get a smile from seven stranded castaways here on Gilligans Isle. In 1972 a crack commando unit was sent to prison by a military court .</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <!--Accordion Box / Style One-->
-                                <div class="accordion-box style-one">
-                                    <h2>Frequently Asked Questions</h2>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn active"><h4>How to choose correct lawyers in regarding with case?</h4></div>
-                                        <div class="accord-content collapsed">
-                                            <p>And we'll do it our way yes our way. Make all our dreams come true for me and you. Didn't need no welfare states. Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Come and dance on our floor. Take a step that is new world don't move to the beat.</p>
-                                        </div>
-                                    </div>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn"><h4>What are the documents needed to meet the lawyers?</h4></div>
-                                        <div class="accord-content">
-                                            <p>Just sit right back and you'll hear a tale a tale of a fateful trip that started from this tropic port aboard this tiny ship all of them had hair of gold like their mother the youngest one in curls. Space. The final frontier.</p>
-                                        </div>
-                                    </div>
-                                    <!-- Accordion -->
-                                    <div class="accordion accordion-block">
-                                        <div class="accord-btn"><h4>Can i communicate with lawyers online?</h4></div>
-                                        <div class="accord-content">
-                                            <p>And we'll do it our way yes our way. Make all our dreams come true for me and you. Didn't need no welfare states. Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Come and dance on our floor. Take a step that is new world don't move to the beat.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                    
-                    
-                            </div>
+
                             
                         </div>
                     </section>
@@ -412,136 +172,7 @@
         </div>
     </div>
     
-    
-    <!--Main Footer-->
-    <footer class="main-footer">
-        
-        <!--Footer Upper-->        
-        <div class="footer-upper">
-            <div class="auto-container">
-                <div class="row clearfix">
-                    
-                    <!--Two 4th column-->
-                    <div class="col-md-6 col-sm-12 col-xs-12">
-                        <div class="row clearfix">
-                            <div class="col-lg-6 col-sm-6 col-xs-12 column">
-                                <div class="footer-widget about-widget">
-                                    <h3 class="logo-text">Consult<span class="theme_color">Pro</span></h3>
-                                    <div class="text margin-bott-30">
-                                        <p>The first mate and his Skipper too will do their very best to make the others comfortable in their tropic island nest. Fleeing from the Cylon tyranny last Battlestar galactica leads.</p>
-                                    </div>
-                                    
-                                    <div class="social-links">
-                                        <a href="#"><span class="fa fa-facebook-f"></span></a>
-                                        <a href="#"><span class="fa fa-twitter"></span></a>
-                                        <a href="#"><span class="fa fa-google-plus"></span></a>
-                                        <a href="#"><span class="fa fa-skype"></span></a>
-                                    </div>
-                                    
-                                </div>
-                            </div>
-                            
-                            <!--Footer Column-->
-                            <div class="col-lg-6 col-sm-6 col-xs-12 column">
-                                <div class="footer-widget contact-widget">
-                                    <h3>Contact Us</h3>	
-                                    <ul class="contact-info">
-                                        <li><h4>Address</h4><p>Srimad Solutions Inc, 06 Highley St, Victoria, Australia.</p></li>
-                                        <li><h4>Email Us</h4><p><a href="mailto:Info@Srimad Solutions.Com">Info@Srimad Solutions.Com</a> <br><a href="mailto:Support@Srimad Solutions.Com">Support@Srimad Solutions.Com</a></p></li>
-                                        <li><h4>Call Us</h4><p>+(10) 123 456 7896 <br>+(10) 123 456 7899</p></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!--Two 4th column End-->
-                    
-                    <!--Two 4th column-->
-                    <div class="col-md-6 col-sm-12 col-xs-12">
-                        <div class="row clearfix">
-                            <!--Footer Column-->
-                            <div class="col-lg-6 col-sm-6 col-xs-12 column">
-                                <div class="footer-widget links-widget">
-                                    <h3>Quick Links</h3>
-                                    <div class="row clearfix">
-                                        
-                                        <div class="col-lg-6 col-sm-6 col-xs-12">
-                                            <ul>
-                                                <li><a href="#">Home</a></li>
-                                                <li><a href="#">About Us</a></li>
-                                                <li><a href="#">Services</a></li>
-                                                <li><a href="#">Projects</a></li>
-                                                <li><a href="#">Latest News</a></li>
-                                                <li><a href="#">Our Team</a></li>
-                                                <li><a href="#">Testimonials</a></li>
-                                            </ul>
-                                        </div>
-                                        
-                                        <div class="col-lg-6 col-sm-6 col-xs-12">
-                                            <ul>
-                                                <li><a href="#">Consultation</a></li>
-                                                <li><a href="#">Finance</a></li>
-                                                <li><a href="#">Investments</a></li>
-                                                <li><a href="#">Bonds</a></li>
-                                                <li><a href="#">Mutual Funds</a></li>
-                                                <li><a href="#">Trading</a></li>
-                                            </ul>
-                                        </div>
-                                        
-                                    </div>
-                                    
-                                </div>
-                            </div>
-                            
-                            <!--Footer Column-->
-                            <div class="col-lg-6 col-sm-6 col-xs-12 column">
-                                <div class="footer-widget newsletter-widget">
-                                    <h3>Subscribe Us</h3>
-                                    
-                                    <div class="newsletter-form">
-                                        <div class="text padd-bott-20">
-                                            <p>Signup for our mailing list to get latest updates and news.</p>
-                                        </div>
-                                        <form method="post" action="index.html">
-                                            <div class="form-group">
-                                                <input type="email" name="useremail" value="" placeholder="Email address" required>
-                                                <button type="submit" class="theme-btn btn-submit"><span class="fa fa-envelope-o"></span></button>
-                                            </div>
-                                            <div class="confid"><em>Your mail id is Confidential</em></div>
-                                        </form>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!--Two 4th column End-->
-                    
-                </div>
-                
-            </div>
-        </div>
-        
-        <!--Footer Bottom-->
-        <div class="footer-bottom">
-            <div class="auto-container">
-                <div class="row clearfix">
-                    <div class="col-md-6 col-sm-6 col-xs-12"><div class="copyright-text">&copy; 2016 All Rights Reserved</div></div>
-                    <div class="col-md-6 col-sm-6 col-xs-12">
-                        <!--Bottom Nav-->
-                        <nav class="footer-nav clearfix">
-                            <ul class="pull-right clearfix">
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Services</a></li>
-                                <li><a href="#">Privacy policy</a></li>
-                                <li><a href="#">Terms &amp; condition</a></li>
-                                
-                            </ul>
-                        </nav>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-    </footer>
+    <?php include ('footer.php'); ?>
         
     
 </div>

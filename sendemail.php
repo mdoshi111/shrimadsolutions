@@ -1,7 +1,7 @@
 <?php
 
 // Define some constants
-define( "RECIPIENT_NAME", "John Doe" );
+define( "RECIPIENT_NAME", "Raghav Nagaraj" );
 define( "RECIPIENT_EMAIL", "info@shrimadsolutions.com" );
 
 

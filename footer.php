@@ -11,7 +11,7 @@
                         <div class="row clearfix">
                             <div class="col-lg-6 col-sm-6 col-xs-12 column">
                                 <div class="footer-widget about-widget">
-                                    <h3 class="logo-text">Srimad<br><span class="theme_color">Solutions</span></h3>
+                                    <h3 class="logo-text">Srimad Solutions</h3>
                                     <div class="text margin-bott-30">
                                         <p></p>
                                     </div>

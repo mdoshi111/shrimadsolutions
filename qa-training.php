@@ -22,17 +22,8 @@
  	
     <?php include ('topnavigation.php'); ?>
     
-    
-    <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/bg-page-title-7.jpg);">
-    	<div class="auto-container">
-        	<h1>QA Training</h1>
-        </div>
-    </section>
-    
-    
     <!--Sidebar Page-->
-    <div class="sidebar-page-container">
+    <div class="sidebar-page-container-development">
     	<!--Tabs Box-->
         <div class="auto-container tabs-box">
             <div class="row clearfix">
@@ -46,41 +37,18 @@
                     	<div class="row clearfix">        
                             
                             <!--News Column-->
-                            <div class="column blog-news-column margin-bott-50 col-md-6 col-sm-6 col-xs-12">
-                                <article class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                    <figure class="image-box">
-                                        <a href="#"><img src="images/resource/blog-image-12.jpg" alt=""></a>
-                                        <div class="news-date">14<span class="month">Mar</span></div>
+                            <div class="column blog-news-column margin-bott-50 col-md-12 col-sm-12 col-xs-12">
+                                <article class="inner-box">
+                                    <figure class="">
+                                        <a href="#"><img src="images/resource/qa-tech.jpg" alt=""></a>
+                                        
                                     </figure>
                                     <div class="content-box">
-                                        <h3><a href="#">Sometimes you to everybody knows</a></h3>
-                                        <ul class="post-info clearfix">
-                                            <li>By <a href="#">Admin</a></li><li>In <a href="#">Finance</a></li><li><a href="#">07 Comments</a></li>
-                                        </ul>
-                                        <div class="text">Here's the story of a man named Brady who was busy with three boys of his own. It's time to play the music. It's time to light the lights. It's time to meet. </div>
+                                        <h3><a href="#">QA Training</a></h3>
+                                        <div class="text">We are providing Manual and Automation Testing Training.</div>
                                     </div>
                                 </article>
                             </div>
-                            
-                            <!--News Column-->
-                            <div class="column blog-news-column margin-bott-50 col-md-6 col-sm-6 col-xs-12">
-                                <article class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                    <figure class="image-box">
-                                        <a href="#"><img src="images/resource/blog-image-13.jpg" alt=""></a>
-                                        <div class="news-date">13<span class="month">Mar</span></div>
-                                    </figure>
-                                    <div class="content-box">
-                                        <h3><a href="#">Sunny Days sweepin' the clouds away</a></h3>
-                                        <ul class="post-info clearfix">
-                                            <li>By <a href="#">Admin</a></li><li>In <a href="#">Finance</a></li><li><a href="#">07 Comments</a></li>
-                                        </ul>
-                                        <div class="text">Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Said Californ'y is the place you ought to be So they loaded up.</div>
-                                    </div>
-                                </article>
-                            </div>
-                            
-                            
-                            
                         </div>
                         
                     </section>
@@ -98,16 +66,14 @@
                         <div class="sidebar-widget popular-tags">
                             <div class="sidebar-title"><h2>Covered Technology</h2></div>
                             
-                            <a href="#">HTML5</a>
-                            <a href="#">CSS3</a>
-                            <a href="#">Bootstrap</a>
-                            <a href="#">Javascript</a>
-                            <a href="#">Jquery</a>
-                            <a href="#">Angularjs</a>
-                            <a href="#">Backbone</a>
-                            <a href="#">Grunt</a>
-                            <a href="#">Gulp</a>
-                            <a href="#">Ember</a>
+                            <a href="#">Manual Testing</a>
+                            <a href="#">QTP</a>
+                            <a href="#">Quality Center</a>
+                            <a href="#">Jira</a>
+                            <a href="#">Selenium</a>
+                            <a href="#">Python</a>
+                            <a href="#">Jmeter</a>
+                            <a href="#">Loadrunner</a>
                         </div>
                                 
                     </aside>

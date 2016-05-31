@@ -102,7 +102,7 @@
     </section>
     
     <!--Contact Section-->
-    <section class="contact-section style-two">
+    <section class="contact-section style-two" id="message">
     	<div class="auto-container medium-container">
         	
             <div class="sec-title text-center">

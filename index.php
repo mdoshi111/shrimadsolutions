@@ -31,7 +31,7 @@
                 <ul>
                 	
                     
-                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/1.jpg"  data-saveperformance="off"  data-title="Awesome Title Here">
+                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/1.jpg"  data-saveperformance="off"  data-title="Helping Your Business Grow">
                     <img src="images/main-slider/1.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
                     
                     
@@ -81,7 +81,7 @@
                     </li>
                     
                     
-                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/2.jpg"  data-saveperformance="off"  data-title="Awesome Title Here">
+                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/2.jpg"  data-saveperformance="off"  data-title="Building a Better Business">
                     <img src="images/main-slider/2.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
                     
                     
@@ -144,7 +144,7 @@
                     </li>
                     
                     
-                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/3.jpg"  data-saveperformance="off"  data-title="Awesome Title Here">
+                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/3.jpg"  data-saveperformance="off"  data-title="Creating the Environment ">
                     <img src="images/main-slider/3.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
                     
                     
@@ -293,65 +293,6 @@
     
     <?php include ('faq.php'); ?>
 
-    <!--Request Quote Section-->
-    <section class="request-quote-section">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	
-                <!--Form Column-->
-                <div class="form-column col-md-5 col-sm-12 col-xs-12">
-                	<h2>Request a Call Back</h2>
-                    
-                	<div class="default-form-style">
-                    	<form method="post" action="index.html">
-                        	<div class="form-group">
-                            	<div class="field-label">Your Name :</div>
-                            	<input type="text" name="your-name" value="" placeholder="" required>
-                            </div>
-                            
-                            <div class="form-group">
-                            	<div class="field-label">Your Email :</div>
-                            	<input type="email" name="your-email" value="" placeholder="" required>
-                            </div>
-                            
-                            <div class="form-group">
-                            	<div class="field-label">Your Phone Number :</div>
-                            	<input type="text" name="your-phone" value="" placeholder="" required>
-                            </div>
-                            
-                            <div class="form-group">
-                            	<div class="field-label">Topic To Discuss :</div>
-                            	<select name="topic">
-                                	<option>Training</option>
-                                    <option>Development</option>
-                                    <option>Staffing</option>
-                                    <option>Other Topic</option>
-                                </select>
-                            </div>
-                            
-                            <div class="form-group">
-                            	<div class="field-label">Any Other Topic :</div>
-                            	<input type="text" name="yother-topic" value="" placeholder="" required>
-                            </div>
-                            
-                            <div class="text-left padd-top-20"><button type="button" class="theme-btn btn-style-four">Send Request</button></div>
-                            
-                        </form>
-                    </div>
-                </div>
-                
-                <!--Image Column-->
-                <div class="image-column col-md-7 col-sm-12 col-xs-12">
-                	<figure class="image-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<img src="images/resource/man-image-1.png" alt="">
-                    </figure>
-                </div>
-                
-                
-            </div>
-        </div>
-    </section>
-    
     
     <!--Default Parallax Section-->
     <section class="default-parallax-section" style="background-image:url(images/parallax/image-1.jpg);">

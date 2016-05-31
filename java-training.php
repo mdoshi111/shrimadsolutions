@@ -21,18 +21,9 @@
     <div class="preloader"></div>
  	
     <?php include ('topnavigation.php'); ?>
-    
-    
-    <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/bg-page-title-7.jpg);">
-    	<div class="auto-container">
-        	<h1>Java Training</h1>
-        </div>
-    </section>
-    
-    
+ 
     <!--Sidebar Page-->
-    <div class="sidebar-page-container">
+    <div class="sidebar-page-container-development">
     	<!--Tabs Box-->
         <div class="auto-container tabs-box">
             <div class="row clearfix">
@@ -46,40 +37,18 @@
                     	<div class="row clearfix">        
                             
                             <!--News Column-->
-                            <div class="column blog-news-column margin-bott-50 col-md-6 col-sm-6 col-xs-12">
-                                <article class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                    <figure class="image-box">
-                                        <a href="#"><img src="images/resource/blog-image-12.jpg" alt=""></a>
-                                        <div class="news-date">14<span class="month">Mar</span></div>
+                            <div class="column blog-news-column margin-bott-50 col-md-12 col-sm-12 col-xs-12">
+                                <article class="inner-box">
+                                    <figure class="">
+                                        <a href="#"><img src="images/resource/java-tech.png" alt=""></a>
+                                        
                                     </figure>
                                     <div class="content-box">
-                                        <h3><a href="#">Sometimes you to everybody knows</a></h3>
-                                        <ul class="post-info clearfix">
-                                            <li>By <a href="#">Admin</a></li><li>In <a href="#">Finance</a></li><li><a href="#">07 Comments</a></li>
-                                        </ul>
+                                        <h3><a href="#">Java Training</a></h3>
                                         <div class="text">Here's the story of a man named Brady who was busy with three boys of his own. It's time to play the music. It's time to light the lights. It's time to meet. </div>
                                     </div>
                                 </article>
                             </div>
-                            
-                            <!--News Column-->
-                            <div class="column blog-news-column margin-bott-50 col-md-6 col-sm-6 col-xs-12">
-                                <article class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                    <figure class="image-box">
-                                        <a href="#"><img src="images/resource/blog-image-13.jpg" alt=""></a>
-                                        <div class="news-date">13<span class="month">Mar</span></div>
-                                    </figure>
-                                    <div class="content-box">
-                                        <h3><a href="#">Sunny Days sweepin' the clouds away</a></h3>
-                                        <ul class="post-info clearfix">
-                                            <li>By <a href="#">Admin</a></li><li>In <a href="#">Finance</a></li><li><a href="#">07 Comments</a></li>
-                                        </ul>
-                                        <div class="text">Everybody pulled his weight. Gee our old Lasalle ran great. Those were the days. Said Californ'y is the place you ought to be So they loaded up.</div>
-                                    </div>
-                                </article>
-                            </div>
-                            
-                            
                             
                         </div>
                         

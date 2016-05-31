@@ -42,6 +42,74 @@
         </div>
     </section>
     
+
+     <!--Default Section-->
+    <section class="default-section">
+        <div class="auto-container">
+            <div class="row clearfix">
+                
+                <!--Text Column-->
+                <div class="column text-column col-md-6 col-sm-12 col-xs-12">
+                    <div class="inner-box">
+                        <h2>Understanding and working towards our clients goals has kept us going.</h2>
+                        <p></p>
+                        <div class="text">
+                            <p>We are a team of energetic and experienced IT engineers working everyday to better understand our clients requirements and provide them flexible solutions. Our goal here at Srimad Solutions is to provide quality consulting, technology, outsourcing and next-generation services much faster, cheaper and better.  Our team has deep understanding of various business domains that span financial services, communications, retail and healthcare services.</p>
+                            <p>Our recruitment team is very focused in hiring the right people based on our clients needs. We provide our consultants the perfect environment for continous learning and training to keep up with leading-edge technologies. Our consultants have the best communication and technological skills to perform their roles effectively and efficiently.</p>
+                            <p>We stand to the following core values
+                                 <ul>
+                                    <li>Accurately represent our consultants and clients</li>
+                                    <li>Provide scalable, reliable and cost effective solutions</li>
+                                    <li>24*7 customer support</li>
+                                    <li>Handle client data confidentially and securely</a></li>
+                                </ul>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--Counter Column-->
+                <div class="column col-md-6 col-sm-12 col-xs-12">
+                    
+                    <!--Boxed Form-->
+                    <div class="boxed-form wow fadeInRight animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
+                        <h3 class="text-center">Request a <span class="theme_color">Call Back</span></h3>
+                        <div class="default-form-style">
+                        
+                            <form method="post" action="index.html">
+                                <div class="row clearfix">
+                                    <div class="col-md-6 col-sm-6 col-xs-12">
+                                        <div class="form-group">
+                                            <input type="text" name="your-name" value="" placeholder="Your Name" required="">
+                                        </div>
+                                        
+                                        <div class="form-group">
+                                            <input type="email" name="your-email" value="" placeholder="Your Email" required="">
+                                        </div>
+                                        
+                                        <div class="form-group">
+                                            <input type="text" name="your-phone" value="" placeholder="Your Phone" required="">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-6 col-xs-12">
+                                        <div class="form-group">
+                                            <textarea name="your-message" placeholder="Your Message" required=""></textarea>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="text-right padd-top-10"><button type="button" class="theme-btn btn-style-four">Send Request</button></div>
+                                
+                            </form>
+                            
+                        </div>
+                    </div><!--Boxed Form-->
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!--Our Team Section-->
     <!--
     <section class="team-section">
