@@ -26,7 +26,8 @@
             	<div class="clearfix">
                 	
                 	<div class="pull-left logo-outer">
-                    	<div class="logo"><a href="index.php"><img src="images/logo.jpg" alt="" title="Srimad Solutions"></a></div>
+
+                    	<div class="logo"><a href="#"><h3>Srimad Solutions Inc</h3><!--img src="images/logo.jpg" alt="" title="Srimad Solutions"--></a></div>
                     </div>
                     
                     <div class="pull-right upper-right clearfix">
