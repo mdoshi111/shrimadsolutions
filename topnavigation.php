@@ -27,7 +27,7 @@
                 	
                 	<div class="pull-left logo-outer">
 
-                    	<div class="logo"><a href="#"><h3>Srimad Solutions Inc</h3><!--img src="images/logo.jpg" alt="" title="Srimad Solutions"--></a></div>
+                    	<div class="logo"><a href="#"><img src="images/logo.jpg" alt="" title="Srimad Solutions"></a></div>
                     </div>
                     
                     <div class="pull-right upper-right clearfix">
@@ -88,9 +88,9 @@
                                 </li>
                                 <li class="dropdown"><a href="about.php">About us</a>
                                 </li>
-                                <li class="dropdown"><a href="">Services</a>
+                                <li class="dropdown"><a href="services.php">Services</a>
                                     <ul>
-                                        <li><a href="services.html">IT Staffing</a></li>
+                                        <li><a href="services.php">IT Staffing</a></li>
                                         <!-- <li><a href="services-2.html">IT Training</a></li> -->
                                         <li><a href="development.php">IT Developement</a></li>
                                     </ul>
@@ -144,9 +144,9 @@
                                 </li>
                                 <li class="dropdown"><a href="about.php">About us</a>
                                 </li>
-                                <li class="dropdown"><a href="services.html">Services</a>
+                                <li class="dropdown"><a href="services.php">Services</a>
                                     <ul>
-                                        <li><a href="">IT Staffing</a></li>
+                                        <li><a href="services.php">IT Staffing</a></li>
                                         <!-- <li><a href="services-2.html">IT Training</a></li> -->
                                         <li><a href="development.php">IT Developement</a></li>
                                     </ul>
