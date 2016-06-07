@@ -291,9 +291,6 @@
         </div>
     </section>
     
-    <?php include ('faq.php'); ?>
-
-    
     <!--Default Parallax Section-->
     <section class="default-parallax-section" style="background-image:url(images/parallax/image-1.jpg);">
     	<div class="auto-container text-center">

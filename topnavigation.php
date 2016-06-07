@@ -95,7 +95,7 @@
                                         <li><a href="development.php">IT Developement</a></li>
                                     </ul>
                                 </li>
-                                <li class="dropdown"><a href="">Training</a>
+                                <li class="dropdown"><a href="training.php">Training</a>
                                     <ul>
                                         <li><a href="ui-training.php">UI Training</a></li>
                                         <li><a href="java-training.php">JAVA Training</a></li>
@@ -151,7 +151,7 @@
                                         <li><a href="development.php">IT Developement</a></li>
                                     </ul>
                                 </li>
-                                <li class="dropdown"><a href="">Training</a>
+                                <li class="dropdown"><a href="training.php">Training</a>
                                     <ul>
                                         <li><a href="ui-training.php">UI Training</a></li>
                                         <li><a href="java-training.php">JAVA Training</a></li>

@@ -31,7 +31,7 @@
                                 <div class="footer-widget contact-widget">
                                     <h3>Contact Us</h3>	
                                     <ul class="contact-info">
-                                        <li><h4>Address</h4><p>Srimad Solutions Inc, 301 N Severgn Drive, Exton, PA 19341, USA.</p></li>
+                                        <li><h4>Address</h4><p>Srimad Solutions Inc, <br>301 N Severgn Drive, Exton, PA 19341, USA.</p></li>
                                         <li><h4>Email Us</h4><p><a href="mailto:Info@Srimad Solutions.Com">Info@SrimadSolutions.Com</a> <br><a href="mailto:Support@Srimad Solutions.Com">Raghav@SrimadSolutions.Com</a></p></li>
                                         <li><h4>Call Us</h4><p>+(1) 302 287 5911</p></li>
                                     </ul>
@@ -51,10 +51,10 @@
                                         
                                         <div class="col-lg-6 col-sm-6 col-xs-12">
                                             <ul>
-                                                <li><a href="#">Home</a></li>
-                                                <li><a href="#">About Us</a></li>
-                                                <li><a href="#">Services</a></li>
-                                                <li><a href="#">IT Training</a></li>
+                                                <li><a href="index.php">Home</a></li>
+                                                <li><a href="about.php">About Us</a></li>
+                                                <li><a href="services.php">Services</a></li>
+                                                <li><a href="training.php">IT Training</a></li>
                                             </ul>
                                         </div>
                                     </div>

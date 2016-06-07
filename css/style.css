@@ -4657,5 +4657,5 @@ ul,li{
 .logo{font-family: 'Lora, serif';}
 .footer-upper .column h3.logo-text{color:#247fe1;}
 
-ul,li{list-style-type:disc;}
-ul{margin:10px;}
+.text-column ul,.text-column li{list-style-type:disc;}
+.text-column ul{margin:10px;}
